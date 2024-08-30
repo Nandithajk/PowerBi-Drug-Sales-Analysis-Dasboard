@@ -1,4 +1,5 @@
-# PowerBi-Drug-Sales-Analysis-Dasboard
+# Drug-Sales-Analysis
+## Developed a detailed dashboard using Power BI
 
 ### Objective: 
 ##### To analyze and visualize drug sales data from Kaggle, focusing on overall sales metrics, customer demographics, and trend analysis, through the creation of three comprehensive dashboards.
